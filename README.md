@@ -15,7 +15,7 @@ Change the .env.example filename to .env
 
 replace THE_API_KEY with the key you just got from the openai website.
 
-## RUN
+## How to use ?
 
 ### Windows :
 ```bash

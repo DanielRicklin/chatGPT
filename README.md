@@ -3,8 +3,8 @@
 Python 3 with all [requirements.txt](https://github.com/DanielRicklin/chatGPT/blob/main/requirements.txt) dependencies installed. To install run:
 
 ```bash
-python -m pip install -U pip
-pip install -r requirements.txt
+python3 -m pip install -U pip
+pip3 install -r requirements.txt
 ```
 
 ## Installation

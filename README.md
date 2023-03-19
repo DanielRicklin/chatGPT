@@ -13,7 +13,7 @@ Get or create you API key there : https://platform.openai.com/account/api-keys
 
 Modify the .env.example filename as .env
 
-replace THE_KEY by the key you just get from the openai website.
+replace THE_KEY with the key you just got from the openai website.
 
 ## RUN
 

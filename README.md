@@ -9,7 +9,7 @@ pip3 install -r requirements.txt
 
 ## Installation
 
-Get or create your API key there : https://platform.openai.com/account/api-keys
+Get or create your API key here : https://platform.openai.com/account/api-keys
 
 Change the .env.example filename to .env
 

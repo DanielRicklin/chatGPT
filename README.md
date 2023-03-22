@@ -15,7 +15,7 @@ Change the .env.example filename to .env
 
 replace THE_API_KEY with the key you just got from the openai website.
 
-## How to use it ?
+## To chat with chatGPT
 
 ### Windows :
 ```bash
@@ -26,4 +26,17 @@ python3 main.py
 ```bash
 chmod +x main.py
 ./main.py
+```
+
+## To create an image
+
+### Windows :
+```bash
+python3 image.py
+```
+
+### Linux :
+```bash
+chmod +x image.py
+./image.py
 ```
